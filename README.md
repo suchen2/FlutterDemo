@@ -1,6 +1,7 @@
 # flutter_app
 
 A new Flutter application.
+about the demo blog [使用ListView的separated构造一个带下拉加载的列表](https://blog.csdn.net/qq_39420519/article/details/104002304)
 
 ## Getting Started
 
